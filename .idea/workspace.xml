@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da7be379-0913-4c40-982f-6e7b717a1daf" name="Changes" comment="">
+    <list default="true" id="da7be379-0913-4c40-982f-6e7b717a1daf" name="Changes" comment="assignment_3_oop">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gadget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gadget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GadgetGPS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GadgetGPS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SmartDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SmartDevice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SmartPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SmartPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SmartTV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SmartTV.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SmartWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SmartWatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,23 +33,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/kuatn&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/kuatn/IdeaProjects/ASSIGNMENT_3_OOP/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kuatn",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/kuatn/IdeaProjects/ASSIGNMENT_3_OOP/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,7 +70,17 @@
       <workItem from="1706382365919" duration="23000" />
       <workItem from="1706427926715" duration="13000" />
       <workItem from="1706510763542" duration="37000" />
+      <workItem from="1706510817463" duration="668000" />
     </task>
+    <task id="LOCAL-00001" summary="assignment_3_oop">
+      <option name="closed" value="true" />
+      <created>1706511000796</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706511000796</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,5 +96,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="assignment_3_oop" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment_3_oop" />
   </component>
 </project>

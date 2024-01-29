@@ -9,7 +9,6 @@ public class SmartWatch extends Gadget {
         System.out.println("SmartWatch Battery Status: 72%");
     }
 
-    // Specific methods for SmartWatch
     public void trackHeartRate() {
         System.out.println("Tracking Heart Rate on SmartWatch.");
     }
