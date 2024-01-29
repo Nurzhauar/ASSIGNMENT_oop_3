@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class GadgetGPS {
+public abstract class GadgetGPS implements SmartDevice{
+    public static void GPS(String message) {
+        System.out.println("GPS of device: "+ message);
+    }
+
 }
